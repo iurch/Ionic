@@ -1,0 +1,13 @@
+<!--
+<p *ngIf="!greeting else Second">Enter the text box.</p>
+<ng-template #Second>
+    <p>Antoher PARAGRAPH</p>
+</ng-template>
+<p>{{greeting}}</p>
+<input type="text" (keyup)="keupenven($event)" [(ngModel)]="greeting" > -->
+
+
+<input type="text" [(ngModel)]="personName" />
+<button (click)="addPerson(personName)">Add</button>
+
+<app-greeting *ngFor="let p of people" [person]="p" ></app-greeting>
