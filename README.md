@@ -59,3 +59,22 @@ This repository is all about the Ionic for develop apps
     methods
     Navigator Controller
     Routing 
+    ngModel
+    ionic lab
+
+
+
+# Seventh Project
+    bitcoin tracker is a project for integrate REST services caller and event in IONIC, consume one API for 
+    get some data and include Interface for get the correct structure.
+    Interface
+    Event 
+    ngModel
+    Page
+    Select
+    Custom styling
+    Serive Provider
+    Routing
+    Modules & Models
+    Properties
+    Observable | async
