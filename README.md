@@ -49,3 +49,13 @@ This repository is all about the Ionic for develop apps
     Events
     ionic Lab
     Interfaces
+
+
+# Sixth Project
+    Navigation Project is about how to navigate between views, selecting view with button and 
+    being correctly configured in the modules.
+    Events
+    Params sent to views
+    methods
+    Navigator Controller
+    Routing 
