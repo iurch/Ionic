@@ -78,3 +78,18 @@ This repository is all about the Ionic for develop apps
     Modules & Models
     Properties
     Observable | async
+
+# Eight Project
+    Ionic Native Flashlight is a project by setting up the enviroment with ionic native, use the plugins for
+    interact with the decive sensor like Flashlight.
+    ngModel
+    Flashlight
+    Plugin Native
+    Platform
+    Router
+    Directives
+    Button
+    Event
+    Page
+    Device
+    ionic Lab
