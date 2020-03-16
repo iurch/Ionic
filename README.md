@@ -93,3 +93,23 @@ This repository is all about the Ionic for develop apps
     Page
     Device
     ionic Lab
+
+# Nine Project
+    Ionic Github Project is for connection the application with github repository service, actually 
+    the application call an api http It gets the response and It should be validated by the developer
+    ngModels
+    HttpModule
+    Http
+        * GET
+    Button
+    Card Holder
+    Service Provier
+    Pages
+    Lazy loading
+    Directives
+        * Input
+        * NgFor 
+    Modules
+    Events
+    so on...
+    
