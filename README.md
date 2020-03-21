@@ -113,3 +113,18 @@ This repository is all about the Ionic for develop apps
     Events
     so on...
     
+
+# Ten Project
+    Ionic Shopping List is an app with Firebase integration and interact with the api.
+    FireBase
+    AngularFireBase
+    Pages
+    Lazy Load
+    Services
+    Directives
+    Ionic Tags
+    Toast Controller
+    Nav Controller & Nav Var Params
+    Events
+    Models
+    Configuration Files
